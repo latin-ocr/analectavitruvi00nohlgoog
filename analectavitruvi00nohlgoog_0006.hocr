@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectavitruvi00nohlgoog_0006.png"; bbox 0 0 4648 5724; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 168 251 2158 670">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 168 251 2158 670">
+     <span class='ocr_line' id='line_1_1' title="bbox 168 251 2158 458; baseline -0.001 -47"><span class='ocrx_word' id='word_1_1' title='bbox 168 418 190 458; x_wconf 60' lang='grc' dir='ltr'>Θ</span> <span class='ocrx_word' id='word_1_2' title='bbox 356 290 790 411; x_wconf 79' lang='lat' dir='ltr'><strong>Wissensohaftliohe</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 826 290 1005 445; x_wconf 78' lang='lat' dir='ltr'>Beilage</span> <span class='ocrx_word' id='word_1_4' title='bbox 1043 332 1133 408; x_wconf 84' lang='lat' dir='ltr'>zum</span> <span class='ocrx_word' id='word_1_5' title='bbox 1168 289 1411 445; x_wconf 82' lang='lat' dir='ltr'><strong>Programm</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1449 291 1525 411; x_wconf 82' lang='lat' dir='ltr'>des</span> <span class='ocrx_word' id='word_1_7' title='bbox 1561 290 1852 411; x_wconf 79' lang='lat' dir='ltr'><strong>Berlinisohen</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1873 251 2010 449; x_wconf 65' lang='lat' dir='ltr'>⁴Gym-</span> <span class='ocrx_word' id='word_1_9' title='bbox 2157 427 2158 432; x_wconf 9' lang='lat'>¹</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 615 509 1965 670; baseline 0.002 -41"><span class='ocrx_word' id='word_1_10' title='bbox 615 515 802 632; x_wconf 81' lang='lat' dir='ltr'>nasiums</span> <span class='ocrx_word' id='word_1_11' title='bbox 840 552 930 630; x_wconf 84' lang='lat' dir='ltr'>zum</span> <span class='ocrx_word' id='word_1_12' title='bbox 966 551 1122 670; x_wconf 78' lang='lat' dir='ltr'>grauen</span> <span class='ocrx_word' id='word_1_13' title='bbox 1161 511 1344 632; x_wconf 82' lang='lat' dir='ltr'><strong>Kloster.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1431 509 1584 631; x_wconf 82' lang='lat' dir='ltr'><strong>Ostern</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1613 512 1750 632; x_wconf 83' lang='lat'><strong>1882.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1947 583 1965 617; x_wconf 8' lang='grc' dir='ltr'>κ-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 364 1427 2243 1711">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 364 1427 2243 1711">
+     <span class='ocr_line' id='line_1_3' title="bbox 364 1427 2243 1711; baseline 0 -1"><span class='ocrx_word' id='word_1_17' title='bbox 364 1497 1080 1711; x_wconf 74' lang='lat' dir='ltr'><strong>ANALEOTA</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1163 1496 2001 1710; x_wconf 68' lang='lat' dir='ltr'>VITRVVIANA</span> <span class='ocrx_word' id='word_1_19' title='bbox 2241 1427 2243 1432; x_wconf 76' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2328 5716">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2328 5716">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2328 5716; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 2328 5716; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
